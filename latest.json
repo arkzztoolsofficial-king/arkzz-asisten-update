@@ -1,6 +1,6 @@
 {
-  "versionCode": 20,
-  "versionName": "1.5.0",
+  "versionCode": 21,
+  "versionName": "1.5.1",
   "apkUrl": "https://github.com/arkzztoolsofficial-king/arkzz-asisten-update/releases/download/v1.5.1/arkzz-asisten-v1.5.1.apk",
   "releaseNotes": [
   "Memperbaiki sistem Crop Text dan Crop Copy agar hasil OCR dapat dikenali dengan benar",
