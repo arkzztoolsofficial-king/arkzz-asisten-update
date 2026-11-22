@@ -1,9 +1,11 @@
 {
-  "versionCode": 19,
-  "versionName": "1.4.0",
-  "apkUrl": "https://github.com/arkzztoolsofficial-king/arkzz-asisten-update/releases/download/V1.4.0/arkzz-asisten-v1.4.0.apk",
+  "versionCode": 20,
+  "versionName": "1.5.0",
+  "apkUrl": "https://github.com/arkzztoolsofficial-king/arkzz-asisten-update/releases/download/v1.5.0/arkzz-asisten-v1.5.0.apk",
   "releaseNotes": [
-    "Versi awal dengan ARKZZ AUTO UPDATE"
+    "Penambahan lelucon baru",
+    "Perbaikan bug",
+    "Penambahan fitur"
   ],
   "mandatory": false
 }
